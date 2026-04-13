@@ -5,7 +5,7 @@ Homebrew tap for [BhittePatro](https://github.com/vertexnp/bhitte-patro) - Nepal
 ## Installation
 
 ```bash
-brew tap Wizartisan/bhitte-patro
+brew tap vertexnp/bhitte-patro
 brew install --cask bhitte-patro
 ```
 
