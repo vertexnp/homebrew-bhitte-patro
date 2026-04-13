@@ -1,6 +1,6 @@
 # homebrew-bhitte-patro
 
-Homebrew tap for [BhittePatro](https://github.com/Wizartisan/bhitte-patro) - Nepali Calendar
+Homebrew tap for [BhittePatro](https://github.com/vertexnp/bhitte-patro) - Nepali Calendar
 
 ## Installation
 
